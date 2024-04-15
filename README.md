@@ -1,35 +1,22 @@
-# template-vite-js-tailwind-v3
+# Frontend Mentor - Recipe page solution
 
-- **template of:** vite + vanilaJS
-- **tailwindcss:** v3.x
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Started
+## Table of contents
 
-```bash
-yarn
-# or `npm install`
-```
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
----
+## My process
 
-## Develop
+### Built with
 
-```bash
-yarn dev
-# or `npm run dev`
-```
+- Semantic HTML5 markup
+- TailwindCSS
+- Mobile-first workflow
 
----
+## Author
 
-## Build
-
-```bash
-yarn build
-# or `npm run build`
-```
-
----
-
-<p align="center">
-<img src="./powered-by-vitawind-bright.png">
-</p>
+- Website - [Lucas Cordero](https://lucascordero.dev.ar)
+- Frontend Mentor - [@lucordero](https://www.frontendmentor.io/profile/lucordero)
